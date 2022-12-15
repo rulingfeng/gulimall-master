@@ -19,8 +19,8 @@ import com.vivi.gulimall.member.service.MemberLevelService;
 /**
  * 会员等级
  *
- * @author wanwgei
- * @email i@weiwang.com
+ * @author  
+ * @email i@ baidu.com
  * @date 2020-09-13 10:51:13
  */
 @RestController

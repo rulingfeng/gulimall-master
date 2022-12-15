@@ -20,8 +20,8 @@ import com.vivi.gulimall.ware.service.PurchaseDetailService;
 /**
  * 
  *
- * @author wanwgei
- * @email i@weiwang.com
+ * @author  
+ * @email i@ baidu.com
  * @date 2020-09-13 10:47:27
  */
 @RestController

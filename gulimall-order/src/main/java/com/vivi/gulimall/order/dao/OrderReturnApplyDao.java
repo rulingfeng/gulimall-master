@@ -7,8 +7,8 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 订单退货申请
  * 
- * @author wanwgei
- * @email i@weiwang.com
+ * @author  
+ * @email i@ baidu.com
  * @date 2020-09-13 10:49:58
  */
 @Mapper

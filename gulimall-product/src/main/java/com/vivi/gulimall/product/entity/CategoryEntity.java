@@ -15,8 +15,8 @@ import lombok.Data;
 /**
  * 商品三级分类
  * 
- * @author wanwgei
- * @email i@weiwang.com
+ * @author  
+ * @email i@ baidu.com
  * @date 2020-09-13 10:48:45
  */
 @Data

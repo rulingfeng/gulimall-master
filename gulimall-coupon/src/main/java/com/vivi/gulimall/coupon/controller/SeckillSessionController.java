@@ -15,8 +15,8 @@ import java.util.Map;
 /**
  * 秒杀活动场次
  *
- * @author wanwgei
- * @email i@weiwang.com
+ * @author
+ * @email i@ baidu.com
  * @date 2020-09-13 10:52:22
  */
 @RestController

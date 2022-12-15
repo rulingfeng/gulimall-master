@@ -9,8 +9,8 @@ import java.util.Map;
 /**
  * 成长值变化历史记录
  *
- * @author wanwgei
- * @email i@weiwang.com
+ * @author
+ * @email i@ baidu.com
  * @date 2020-09-13 10:51:13
  */
 public interface GrowthChangeHistoryService extends IService<GrowthChangeHistoryEntity> {

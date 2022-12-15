@@ -17,8 +17,8 @@ import javax.validation.constraints.*;
 /**
  * 品牌
  * 
- * @author wanwgei
- * @email i@weiwang.com
+ * @author
+ * @email i@ baidu.com
  * @date 2020-09-13 10:48:45
  *
  * @NotNull: CharSequence, Collection, Map 和 Array 对象不能是 null, 但可以是空集（size = 0）。

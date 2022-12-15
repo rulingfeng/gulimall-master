@@ -11,8 +11,8 @@ import java.util.Map;
 /**
  * 会员收货地址
  *
- * @author wanwgei
- * @email i@weiwang.com
+ * @author
+ * @email i@ baidu.com
  * @date 2020-09-13 10:51:12
  */
 public interface MemberReceiveAddressService extends IService<MemberReceiveAddressEntity> {

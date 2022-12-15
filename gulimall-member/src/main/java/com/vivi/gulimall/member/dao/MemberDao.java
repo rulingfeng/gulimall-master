@@ -8,8 +8,8 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 会员
  * 
- * @author wanwgei
- * @email i@weiwang.com
+ * @author  
+ * @email i@ baidu.com
  * @date 2020-09-13 10:51:13
  */
 @Mapper

@@ -11,8 +11,8 @@ import lombok.Data;
 /**
  * 支付信息表
  * 
- * @author wanwgei
- * @email i@weiwang.com
+ * @author
+ * @email i@ baidu.com
  * @date 2020-09-13 10:49:58
  */
 @Data
