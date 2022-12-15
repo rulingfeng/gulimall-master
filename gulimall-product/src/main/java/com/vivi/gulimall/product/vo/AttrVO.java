@@ -3,7 +3,7 @@ package com.vivi.gulimall.product.vo;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/15 14:59
  *
  * 前端页面传来的数据封装成的对象

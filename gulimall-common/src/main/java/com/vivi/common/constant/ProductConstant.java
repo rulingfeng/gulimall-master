@@ -5,7 +5,7 @@ import org.springframework.util.StringUtils;
 import javax.xml.transform.sax.SAXTransformerFactory;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/16 19:58
  */
 public class ProductConstant {

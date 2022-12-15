@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/1 19:35
  *
  * 用户登录数据模型

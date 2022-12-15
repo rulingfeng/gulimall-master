@@ -5,7 +5,7 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/30 14:40
  *
  * 属性和 com.vivi.gulimall.coupon.entity.SeckillSkuRelationEntity 对应

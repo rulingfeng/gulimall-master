@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/30 13:21
  */
 public class SeckillConstant {

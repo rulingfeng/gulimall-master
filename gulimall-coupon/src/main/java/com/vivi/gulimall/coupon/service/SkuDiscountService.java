@@ -3,7 +3,7 @@ package com.vivi.gulimall.coupon.service;
 import com.vivi.common.to.SkuDiscountTO;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/19 16:27
  */
 public interface SkuDiscountService {

@@ -7,7 +7,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/25 22:45
  *
  * 订单创建完的数据模型

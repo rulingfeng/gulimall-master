@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import javax.servlet.http.HttpSession;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/13 10:25
  */
 @Controller

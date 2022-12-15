@@ -9,7 +9,7 @@ import org.springframework.web.cors.reactive.UrlBasedCorsConfigurationSource;
 import javax.swing.*;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/2 9:33
  *
  * 全局跨域处理

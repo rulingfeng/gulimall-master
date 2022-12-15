@@ -9,7 +9,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/18 20:23
  *
  * 如果遇到feign远程调用请求头丢失，开始此配置

@@ -8,7 +8,7 @@ import com.vivi.gulimall.cart.vo.CartVO;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/16 12:32
  */
 public interface CartService {

@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/18 16:10
  *
  * 登录拦截器

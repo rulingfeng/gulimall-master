@@ -6,7 +6,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/15 22:36
  *
  * 对数据库查询出的数据组合封装后要返回给前端的页面对象

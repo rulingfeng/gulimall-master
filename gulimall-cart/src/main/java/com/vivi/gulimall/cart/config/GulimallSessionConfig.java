@@ -9,7 +9,7 @@ import org.springframework.session.web.http.CookieSerializer;
 import org.springframework.session.web.http.DefaultCookieSerializer;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/1 19:36
  *
  * 使用springsession管理session。使用redis存储会话信息

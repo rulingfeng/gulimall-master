@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/19 22:13
  */
 public class WareConstant {

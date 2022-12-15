@@ -5,7 +5,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/30 14:25
  */
 @FeignClient("gulimall-coupon")

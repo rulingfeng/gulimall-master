@@ -9,7 +9,7 @@ import org.springframework.data.redis.serializer.RedisSerializationContext;
 import org.springframework.data.redis.serializer.RedisSerializer;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/27 10:58
  */
 @EnableConfigurationProperties(CacheProperties.class)

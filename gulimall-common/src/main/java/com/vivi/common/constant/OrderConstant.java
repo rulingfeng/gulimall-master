@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/23 11:13
  */
 public class OrderConstant {

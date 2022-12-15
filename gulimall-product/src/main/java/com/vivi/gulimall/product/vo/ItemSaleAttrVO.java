@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/12 11:10
  *
  * 商品销售属性VO

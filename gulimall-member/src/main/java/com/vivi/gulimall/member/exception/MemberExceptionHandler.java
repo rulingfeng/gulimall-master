@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/14 17:40
  */
 @Slf4j

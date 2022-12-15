@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/11 17:41
  */
 @Controller

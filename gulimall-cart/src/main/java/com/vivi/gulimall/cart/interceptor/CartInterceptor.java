@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.UUID;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/16 12:34
  *
  * 拦截器，访问目标方法之前，先判断用户的登录状态并保存进threadlocal

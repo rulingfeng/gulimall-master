@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/27 15:55
  *
  * 首先开启，@EnableRabbit

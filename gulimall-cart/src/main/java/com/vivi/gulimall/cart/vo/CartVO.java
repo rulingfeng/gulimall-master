@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/16 12:14
  *
  * 购物车--用于结算页查看总金额

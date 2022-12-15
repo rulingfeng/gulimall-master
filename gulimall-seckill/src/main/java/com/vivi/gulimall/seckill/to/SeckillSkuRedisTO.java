@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/30 16:14
  *
  * 秒杀商品在redis中的存储模型

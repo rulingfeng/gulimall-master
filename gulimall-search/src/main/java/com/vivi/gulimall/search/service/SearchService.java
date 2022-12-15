@@ -4,7 +4,7 @@ import com.vivi.gulimall.search.vo.SearchParam;
 import com.vivi.gulimall.search.vo.SearchResult;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/28 16:47
  */
 public interface SearchService {

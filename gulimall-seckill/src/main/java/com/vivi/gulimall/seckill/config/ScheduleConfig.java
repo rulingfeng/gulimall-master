@@ -5,7 +5,7 @@ import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.annotation.EnableScheduling;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/29 20:38
  *
  * 开启定时任务，开启异步定时任务

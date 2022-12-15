@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/21 16:48
  */
 @FeignClient("gulimall-ware")

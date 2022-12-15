@@ -3,7 +3,7 @@ package com.vivi.common.to;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/13 15:25
  */
 @Data

@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/28 16:28
  * 全部可能的检索条件
  */

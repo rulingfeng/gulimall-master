@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
- * @author wangwei
+ * @author
  * 2020/9/30 18:16
  */
 @FeignClient(name = "gulimall-coupon")

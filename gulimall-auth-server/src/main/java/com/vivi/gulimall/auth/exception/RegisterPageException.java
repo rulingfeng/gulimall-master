@@ -4,7 +4,7 @@ import com.vivi.common.exception.BizException;
 import com.vivi.common.exception.CommonError;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/14 19:26
  *
  * 遇到这个异常时，最终要返回注册页面，而不是返回json数据

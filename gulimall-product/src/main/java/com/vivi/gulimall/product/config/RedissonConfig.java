@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/26 20:30
  *
  * Redisson分布式锁的配置

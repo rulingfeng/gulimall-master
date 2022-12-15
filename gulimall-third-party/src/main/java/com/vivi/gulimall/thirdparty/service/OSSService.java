@@ -5,7 +5,7 @@ import com.vivi.common.utils.R;
 import java.util.Map;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/13 15:13
  */
 public interface OSSService {

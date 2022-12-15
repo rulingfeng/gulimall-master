@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.concurrent.*;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/12 17:30
  */
 @ControllerAdvice

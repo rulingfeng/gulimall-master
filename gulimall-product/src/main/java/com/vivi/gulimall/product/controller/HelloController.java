@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/9/30 17:08
  *
  * 测试配置文件和配置中心配置项的读取

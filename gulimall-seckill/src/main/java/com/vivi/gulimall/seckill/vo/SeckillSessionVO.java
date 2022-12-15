@@ -6,7 +6,7 @@ import java.util.Date;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/30 14:39
  *
  * 属性和 com.vivi.gulimall.coupon.entity.SeckillSessionEntity 对应

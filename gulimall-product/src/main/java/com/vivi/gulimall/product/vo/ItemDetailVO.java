@@ -9,7 +9,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/11 18:25
  *
  * 商品详情模型

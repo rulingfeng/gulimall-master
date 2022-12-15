@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/13 15:38
  */
 @FeignClient("gulimall-third-party")

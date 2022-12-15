@@ -16,7 +16,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/27 16:25
  *
  * 监听延时1min后延时队列

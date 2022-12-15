@@ -6,7 +6,7 @@ import com.vivi.gulimall.seckill.to.SeckillSkuRedisTO;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/30 10:59
  */
 public interface SeckillService {

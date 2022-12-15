@@ -5,7 +5,7 @@ import lombok.Data;
 import javax.validation.constraints.Pattern;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/13 11:02
  *
  * 用户注册数据模型

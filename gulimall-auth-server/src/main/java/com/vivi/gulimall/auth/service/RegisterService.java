@@ -4,7 +4,7 @@ package com.vivi.gulimall.auth.service;
 import com.vivi.gulimall.auth.vo.RegisterVO;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/13 15:41
  */
 public interface RegisterService {

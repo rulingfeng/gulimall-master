@@ -4,7 +4,7 @@ import com.vivi.common.vo.MemberInfoVO;
 import com.vivi.gulimall.auth.vo.LoginVO;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/14 20:26
  */
 public interface LoginService {

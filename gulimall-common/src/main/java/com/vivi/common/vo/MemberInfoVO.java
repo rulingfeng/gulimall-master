@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/16 13:42
  *
  * 登录后的用户存在session中的数据模型

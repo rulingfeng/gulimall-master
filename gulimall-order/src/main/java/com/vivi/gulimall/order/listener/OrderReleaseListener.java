@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/28 10:23
  *
  * 30min未支付释放订单消息

@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/12 14:58
  */
 //Spring boot方式

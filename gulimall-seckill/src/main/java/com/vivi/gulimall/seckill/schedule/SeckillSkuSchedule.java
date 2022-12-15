@@ -14,7 +14,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/30 10:56
  *
  * 秒杀商品 定时任务

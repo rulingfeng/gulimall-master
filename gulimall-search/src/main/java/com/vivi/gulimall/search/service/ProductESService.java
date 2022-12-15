@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/22 23:17
  */
 public interface ProductESService {

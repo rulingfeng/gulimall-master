@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/15 15:17
  */
 public class MemberConstant {

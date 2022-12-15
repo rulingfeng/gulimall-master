@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.UUID;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/17 21:15
  */
 @Controller

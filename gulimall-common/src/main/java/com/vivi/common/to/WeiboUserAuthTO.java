@@ -3,7 +3,7 @@ package com.vivi.common.to;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/15 13:28
  *
  * 微博用户信息访问令牌

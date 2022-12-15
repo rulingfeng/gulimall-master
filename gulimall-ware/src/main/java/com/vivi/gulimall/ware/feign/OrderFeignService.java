@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/27 21:23
  */
 @FeignClient("gulimall-order")

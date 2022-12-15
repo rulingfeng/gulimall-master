@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/9/12 17:30
  */
 @SpringBootTest
@@ -20,7 +20,7 @@ public class GulimallMemberApplicationTests {
     void contextLoads() {
         MemberEntity memberEntity = new MemberEntity();
         memberEntity.setMobile("13571523592");
-        memberEntity.setUsername("wangwei");
+        memberEntity.setUsername(" ");
         memberService.save(memberEntity);
         memberService.save(memberEntity);
     }

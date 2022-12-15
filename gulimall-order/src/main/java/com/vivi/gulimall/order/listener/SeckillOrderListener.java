@@ -14,7 +14,7 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/31 15:12
  *
  * 秒杀服务发送过来的下单消息

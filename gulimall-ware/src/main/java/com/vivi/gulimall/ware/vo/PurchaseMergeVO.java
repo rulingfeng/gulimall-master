@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/19 22:25
  *
  * 将多个采购需求合并到一个采购单中

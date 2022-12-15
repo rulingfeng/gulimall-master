@@ -5,7 +5,7 @@ import lombok.Data;
 import java.math.BigDecimal;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/23 11:00
  *
  * 提交订单

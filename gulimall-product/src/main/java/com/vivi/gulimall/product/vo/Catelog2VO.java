@@ -7,7 +7,7 @@ import lombok.NoArgsConstructor;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/24 22:27
  *
  * 商城首页，实现鼠标放在一级分类上，自动显示出对应的二级三级分类，所需要的数据模型

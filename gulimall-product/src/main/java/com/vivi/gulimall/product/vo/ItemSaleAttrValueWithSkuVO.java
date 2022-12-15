@@ -3,7 +3,7 @@ package com.vivi.gulimall.product.vo;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/12 11:31
  * <p>
  * /**

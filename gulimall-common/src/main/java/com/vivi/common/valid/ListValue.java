@@ -5,7 +5,7 @@ import javax.validation.Payload;
 import java.lang.annotation.*;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/10 17:22
  *
  * 自定义校验注解(如@NotBlank,@Email)，用于校验有限值类型的属性（如只能取1,2）

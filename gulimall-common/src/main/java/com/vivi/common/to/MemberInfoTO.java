@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.Date;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/14 20:46
  *
  * 用于服务之间数据传输，来源于 gulimall-member.MemberEntity，修改一些属性，屏蔽不必要属性

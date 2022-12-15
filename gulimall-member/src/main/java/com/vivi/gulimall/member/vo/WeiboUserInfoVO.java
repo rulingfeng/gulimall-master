@@ -4,7 +4,7 @@ import lombok.Data;
 
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/15 16:29
  *
  * 根据accessToken得到的用户微博平台基本信息

@@ -5,7 +5,7 @@ import lombok.Data;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/15 22:36
  *
  * 从gulimall-product远程查出来的attr返回结果

@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/18 16:36
  *
  * 订单详情，订单确认页数据

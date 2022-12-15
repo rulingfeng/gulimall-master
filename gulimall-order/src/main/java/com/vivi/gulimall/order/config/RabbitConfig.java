@@ -20,7 +20,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/17 17:48
  *
  * 开启rabbitmq自动配置，并添加自定义配

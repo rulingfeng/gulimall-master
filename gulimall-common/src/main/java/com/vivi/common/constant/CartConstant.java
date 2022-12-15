@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/16 13:58
  */
 public class CartConstant {

@@ -3,7 +3,7 @@ package com.vivi.common.exception;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/14 15:31
  *
  * 业务统一异常类

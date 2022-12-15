@@ -10,7 +10,7 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/17 20:38
  *
  * 对于配置好的rabbitmq的测试

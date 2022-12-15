@@ -3,7 +3,7 @@ package com.vivi.gulimall.product.vo;
 import lombok.Data;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/11 18:36
  *
  * 商品规格参数(基本属性)VO

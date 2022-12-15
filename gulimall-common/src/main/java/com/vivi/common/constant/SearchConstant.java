@@ -1,7 +1,7 @@
 package com.vivi.common.constant;
 
 /**
- * @author wangwei
+ * @author  
  * 2020/10/28 18:25
  */
 public class SearchConstant {

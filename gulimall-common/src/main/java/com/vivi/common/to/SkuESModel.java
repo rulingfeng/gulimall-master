@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author
  * 2020/10/23 13:27
  *
  * 商品上架，存储信息到ES

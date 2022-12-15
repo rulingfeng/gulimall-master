@@ -11,7 +11,7 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @author wangwei
+ * @author
  * 2021/1/17 20:01
  */
 @Slf4j

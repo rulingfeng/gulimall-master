@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * @author wangwei
+ * @author  
  * 2021/1/16 12:08
  *
  * 购物车中每一项------用于查看购物车列表
