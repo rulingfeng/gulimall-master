@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.vivi.gulimall.product.dao.BrandDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.vivi.gulimall.product.entity.BrandEntity" id="brandMap">
+        <result property="brandId" column="brand_id"/>
+        <result property="name" column="name"/>
+        <result property="logo" column="logo"/>
+        <result property="descript" column="descript"/>
+        <result property="showStatus" column="show_status"/>
+        <result property="firstLetter" column="first_letter"/>
+        <result property="sort" column="sort"/>
+    </resultMap>
+
+    <select id="getBatch" resultType="com.vivi.common.to.BrandTO">
+        select brand_id, name from pms_brand where brand_id in
+        <foreach collection="ids" item="id" open="(" close=")" separator=",">
+            #{id}
+        </foreach>
+    </select>
+
+
+</mapper>
